@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottaxis09
-- 👀 I’m interested in automation and data science
+- 👀 I’m interested in automations and data science projects
 - 🌱 I’m currently learning data analysis and visualization
 - 💞️ I’m looking to collaborate on machine learning and automation projects
 - 📫 How to reach me scottaxis09@gmail.com
