@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apoly
 - 👀 I’m interested in automations and data science projects
-- 🌱 I’m currently working as the software engineer and emmedded system analyst
+- 🌱 I’m currently working as the software engineer and emmbedded system analyst
 - 💞️ I’m looking to collaborate on machine learning and automation projects
 - 📫 How to reach me scottaxis09@gmail.com
 
